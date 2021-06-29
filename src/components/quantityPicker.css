@@ -1,0 +1,17 @@
+
+.quantity-picker .btn{
+    border-radius: 35px;
+    padding: 3px 8px;
+    margin-left: 4px;
+    margin-right: 3px;
+    border:1px solid rgb(54, 54, 255);
+}
+
+.quantity-picker .btn:hover{
+    border-color: rgb(54, 54, 255);
+    background-color: #ececec;
+}
+
+.quantity-picker .btn-minus{
+    padding: 3px 10px;
+}
